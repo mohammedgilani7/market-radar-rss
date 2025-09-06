@@ -4,7 +4,7 @@
     <title>Daily Market Radar</title>
     <link>https://mohammedgilani7.github.io/market-radar-rss/</link>
     <description>Actionable daily stock briefs</description>
-    <lastBuildDate>Sat, 06 Sep 2025 18:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 18:25:00 GMT</lastBuildDate>
 
     <item>
       <title>Market Radar – Sept 6, 2025 (Initial Brief)</title>
@@ -15,26 +15,8 @@
         <h2>Market Sentiment</h2>
         <p><b>Today’s Bias:</b> 80% Bullish — futures green, VIX down, weak jobs report fueling rate-cut hopes.</p>
         <p><b>Weekly Bias:</b> 70% Bullish — CPI/jobs data suggest SPY likely to finish week positive.</p>
-
-        <h2>Portfolio Watchlist (Personal Account)</h2>
-        <p>MARA: +3.5% pre-market — Bitcoin rally lifting miners.</p>
-        <p>RIOT: Testing $14 support — bounce entry possible.</p>
-        <p>BITF: +2.0% — crypto strength continues.</p>
-        <p>SQQQ: -2.1% — hedge under pressure in bullish market.</p>
-
-        <h2>Portfolio Watchlist (Roth IRA)</h2>
-        <p>JNJ: $178.09 (+0.5%) — upgraded to Overweight.</p>
-        <p>XOM: $111.14 (+1.0%) — supported by oil rally.</p>
-        <p>NEE: $70.69 (-0.3%) — slight pullback with yields up.</p>
-        <p>SCHD: $27.70 (flat) — yield steady at 3.6%.</p>
-        <p>COST: $966.95 — earnings next week.</p>
-
-        <h2>Actionable Playbook</h2>
-        <p>• Favor risk-on (MARA/RIOT).</p>
-        <p>• RIOT near support for swing entry.</p>
-        <p>• NEE nearing buy range; staggered entries possible.</p>
-        <p>• If Powell is dovish → dividend ETFs (SCHD, JEPI, HDV) gain; hawkish tone → utilities pressured.</p>
       ]]></description>
     </item>
+
   </channel>
 </rss>
