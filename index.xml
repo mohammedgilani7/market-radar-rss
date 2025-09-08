@@ -4,8 +4,20 @@
     <title>Daily Market Radar</title>
     <link>https://mohammedgilani7.github.io/market-radar-rss/</link>
     <description>Actionable daily stock briefs</description>
-    <lastBuildDate>Sat, 06 Sep 2025 18:25:00 GMT</lastBuildDate>
-        <item>
+    <lastBuildDate>Mon, 08 Sep 2025 16:15:00 GMT</lastBuildDate>
+    <item>
+      <title>Market Radar – Sept 8, 2025 (Test Update)</title>
+      <link>https://YOUR-USERNAME.github.io/market-radar-rss/2025-09-08-test</link>
+      <guid isPermaLink="false">mr-2025-09-08-test</guid>
+      <pubDate>Mon, 08 Sep 2025 16:20:00 GMT</pubDate>
+      <description><![CDATA[
+        <h2>Test Update</h2>
+        <p>If you receive this by email, the RSS → IFTTT → Email flow is working.</p>
+        <h2>Quick Note</h2>
+        <p>This is only a test item. Your real Daily Market Radar will replace this each morning.</p>
+      ]]></description>
+    </item>
+    <item>
       <title>Market Radar – Sept 6, 2025 (PM Update)</title>
       <link>https://mohammedgilani7.github.io/market-radar-rss/2025-09-06-pm</link>
       <guid isPermaLink="false">mr-2025-09-06-2015</guid>
